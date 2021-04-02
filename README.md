@@ -1,3 +1,5 @@
+# Description
+This is a sample eccommerce site created using react redux and firebase.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
